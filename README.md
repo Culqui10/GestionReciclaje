@@ -1,3 +1,7 @@
+## Acerca del proyecto de reciclaje
+
+Es un sistema diseñado para la gestion de recolección de basura de diversos distritos. Cuenta con el registro de camiones, conductores, zonas y rutas. Asimismo con la programacion del horario de recoleccion por cada zona o distrito registrado.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
